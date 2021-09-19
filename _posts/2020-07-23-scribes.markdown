@@ -1,0 +1,44 @@
+---
+layout: single
+title:  "Scribe notes on algorithms and complexities"
+date:   2020-07-23 3:05 -0500
+categories: notes
+---
+Here are some notes I scribed for courses I take during the first year of my Ph.D. study. 
+These notes have not been scrutinized as peer-reviewed works would have, and I am responsible for any mistakes within it. 
+
+* [Continuous Optimization: Gradient Descent]({{site.baseurl}}/assets/pdf_scribes/787GD.pdf).
+This is a lecture from CS 787 Advanced Algorithms. We learned to show that gradient descent converges very fast on functions that are strongly convex and smooth. 
+
+* [LP relaxation and rounding]({{site.baseurl}}/assets/pdf_scribes/880LP_relaxation.pdf).
+This is a lecture from [CS 880](http://pages.cs.wisc.edu/~shuchi/courses/880-F19/index.html)  Approximation and online algorithms. It is about the technique to approximate solutions for an integer linear program by relaxing the problem to linear program and solving the relaxed version of the problem. 
+
+* [Random walk and hitting time]({{site.baseurl}}/assets/pdf_scribes/710Lec5.pdf).
+In CS 710 Computational Complexity, besides conventional materials from complexities, Prof. [Jin-Yi Cai](http://pages.cs.wisc.edu/~jyc/) also gave us a taste of some beautiful results from random walks. This lecture a beautiful theorem not included in this scribe: 
+>
+**Theorem**(by [Gobel and Jagers](https://research.utwente.nl/en/publications/random-walks-on-graphs).)
+In any undirected connected graph \\( G = (E,V) \\), 
+any two nodes \\( i, j \in V\\), two edges \\(\{u, v\}, \{u', v'\} \in V \\), 
+\\[\theta_{i,j,u,v} = \theta_{i,j,u',v'},\\] 
+where \\(\theta_{i,j,u,v}\\) is the expected number of times that 
+a random \\( (i,j)\\) commute traverses the edge \\(\{u,v\}\\), 
+and an \\( (i,j)\\) commute is a sequence of vertices that can be divided into two phases:
+>    - Phase 1: starting from vertex \\(i\\), ending with vertex \\(j\\), with no visits of \\(j\\) in between. 
+>    - Phase 2: starting from vertex \\(j\\), ending with vertex \\(j\\), with no visits of \\(i\\) in between. 
+
+* [Polynomial Hierarchy Theorem and Alternating Turing Machine]({{site.baseurl}}/assets/pdf_scribes/710Lec9.pdf).
+
+* [Chee Yap Theorem, Mahaney’s theorem, and Tail bound]({{site.baseurl}}/assets/pdf_scribes/710Lec12.pdf).
+
+* [Valiant-Vazirani Theorem and Efficient Amplification with Hashing mixing lemma]({{site.baseurl}}/assets/pdf_scribes/710Lec17.pdf).
+These three notes touch on cool theorems that show unobvious conditions that could render
+    * \\(\Sigma_2^P = \Pi_2^P \\), see [Polynomial Hierarchy Theorem]({{site.baseurl}}/assets/pdf_scribes/710Lec9.pdf);
+    * or \\(\Sigma_3^P = \Pi_3^P \\), see [Chee Yap Theorem]({{site.baseurl}}/assets/pdf_scribes/710Lec12.pdf).
+    * or \\(NP = P\\): see [Mahaney’s theorem]({{site.baseurl}}/assets/pdf_scribes/710Lec12.pdf).
+    * or \\(NP = RP \\), randomized polynomial time : see [Valiant-Vazirani Theorem]({{site.baseurl}}/assets/pdf_scribes/710Lec17.pdf).
+
+(For the \\(\Sigma\\) and \\(\Pi\\) notations, I found Wikipedia page on 
+[polynomial hierarchy](https://en.wikipedia.org/wiki/Polynomial_hierarchy) 
+and [this scribe](http://www.cs.cornell.edu/courses/cs6810/2009sp/scribe/lecture5.pdf) helpful. )
+
+
