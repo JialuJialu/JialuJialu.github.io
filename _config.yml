@@ -21,7 +21,7 @@ url: "http://pages.cs.wisc.edu" # the base hostname & protocol for your site, e.
 author:
   name: "Jialu Bao"
   avatar: "/assets/images/bio-photo.jpeg"
-  bio: "My first name is pronounced as J·ah·loo ^_^" # Note: Markdown is allowed
+  bio: "My first name is pronounced as J·ah·loo :D" # Note: Markdown is allowed
   location: "Ithaca, NY"
   links:
     - label: "Twitter"
@@ -39,14 +39,22 @@ author:
       # github_username:  JialuJialu
 
 # Build settings
+lsi: false
+safe: true
 sass:
   sass_dir: _sass
+incremental: false
 include: ['_pages']
 markdown: kramdown
-kramdown: 
-  input: GFM
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 theme: minimal-mistakes-jekyll
 defaults:
