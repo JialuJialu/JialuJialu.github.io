@@ -7,7 +7,7 @@ permalink: /about/
 I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often statistical properties and thus difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by [Justin Hsu](https://justinh.su/) to explore my interests. 
 
 Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
-and prior to that, I did my undergrad in Mathematics and Computer Science at Cornell, where I was fortunate to be mentored by [Nate Foster](https://www.cs.cornell.edu/~jnfoster/), [John E. Hopcroft](https://www.cs.cornell.edu/jeh/), [Michael Macy](https://sites.google.com/site/michaelmacy14/home), and many others. 
+and prior to that, I did my undergrad at Cornell majoring in Mathematics and Computer Science. 
 
 Email: jb965@cornell.edu
 
@@ -31,7 +31,7 @@ News
 
 Drafts
 ===========
-Jialu Bao, Marco Gaboardi, Justin Hsu, Joe Tassarotti. "A Separation Logic for Negative Dependence."
+Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
 (Email me if interested)
 
 Jialu Bao, Drashti Pathak, Justin Hsu, Subhajit Roy. "Data-Driven Invariant Learning for Probabilistic Programs." 
