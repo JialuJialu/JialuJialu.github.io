@@ -4,12 +4,12 @@ layout: single
 permalink: /about/
 ---
 
-I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often statistical properties and thus difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by [Justin Hsu](https://justinh.su/) to explore my interests. 
+I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often statistical properties and thus difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinh.su/) to explore my interests. 
 
 Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
 and prior to that, I did my undergrad at Cornell majoring in Mathematics and Computer Science. 
 
-Email: jb965@cornell.edu
+Email: jb965 @cornell.edu (delete space)
 
 
 News
@@ -31,17 +31,18 @@ News
 
 Drafts
 ===========
-Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
-(Email me if interested)
-
 Jialu Bao, Drashti Pathak, Justin Hsu, Subhajit Roy. "Data-Driven Invariant Learning for Probabilistic Programs." 
 ([arxiv](https://arxiv.org/abs/2106.05421))
 
 Xiaodong Xin, Kun He, Jialu Bao, Bart Selman, John E. Hopcroft. "Structure Amplification on Multi-layer Stochastic Block Models."
-(Journal version of the TAMC 2020 paper, currently in submission)([arxiv](https://arxiv.org/abs/2108.00127))
+(Journal version of the TAMC 2020 paper, currently in submission) ([arxiv](https://arxiv.org/abs/2108.00127))
 
 Publications
 ============
+Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
+Conditionally accepted to *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
+(Email me if interested)
+
 Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.  “A Bunched Logic for Conditional Independence.” 
 In *ACM/IEEE Symposium on Logic in Computer Science (LICS)*, 2021.
 ([arxiv](https://arxiv.org/abs/2008.09231)) 

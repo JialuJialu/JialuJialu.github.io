@@ -3,8 +3,8 @@
   <channel>
     <title></title>
     <description>Jialu's notes and blog</description>
-    <link>jialujialu.github.io</link>
-    <atom:link href="jialujialu.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Scribe notes on algorithms and complexities</title>
@@ -60,8 +60,8 @@ and &lt;a href=&quot;http://www.cs.cornell.edu/courses/cs6810/2009sp/scribe/lect
 
 </description>
         <pubDate>Thu, 23 Jul 2020 04:05:00 -0400</pubDate>
-        <link>jialujialu.github.io//notes/scribes/</link>
-        <guid isPermaLink="true">jialujialu.github.io//notes/scribes/</guid>
+        <link>http://localhost:4000//notes/scribes/</link>
+        <guid isPermaLink="true">http://localhost:4000//notes/scribes/</guid>
       </item>
     
   </channel>
