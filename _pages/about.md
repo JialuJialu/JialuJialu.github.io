@@ -12,36 +12,17 @@ and prior to that, I did my undergrad at Cornell majoring in Mathematics and Com
 Email: jb965 @cornell.edu (delete space)
 
 
-News
-============
-+ **2021.08** Moved back to Cornell to continue my Ph.D. study!
-
-+ **2021.04** My first work in grad school, [A Bunched Logic for Conditional Independence](https://arxiv.org/abs/2008.09231), got accepted at LICS 2021!
-
-+ **2021.02** Presented a data-driven method for generating weakest pre-expectation at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
-
-+ **2020.10** Presented at MadPL's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/) :D
-
-+ **2020.01** My undergraduate work on community detection got accepted to TAMC!
-
-+ **2019.12** My poster on [a logic for conditional independence](https://popl20.sigplan.org/details/POPL-2020-Student-Research-Competition/21/A-logic-for-verifying-conditional-independence) accepted to Student Research Competition at POPL!
-
-+ **2019.08** Started Ph.D. study at UW--Madison!
-
 
 Drafts
 ===========
 Jialu Bao, Drashti Pathak, Justin Hsu, Subhajit Roy. "Data-Driven Invariant Learning for Probabilistic Programs." 
 ([arxiv](https://arxiv.org/abs/2106.05421))
 
-Xiaodong Xin, Kun He, Jialu Bao, Bart Selman, John E. Hopcroft. "Structure Amplification on Multi-layer Stochastic Block Models."
-(Journal version of the TAMC 2020 paper, currently in submission) ([arxiv](https://arxiv.org/abs/2108.00127))
-
 Publications
 ============
 Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
 Conditionally accepted to *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
-(Email me if interested)
+(email me for a draft and available online soon)
 
 Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.  “A Bunched Logic for Conditional Independence.” 
 In *ACM/IEEE Symposium on Logic in Computer Science (LICS)*, 2021.
@@ -52,7 +33,18 @@ Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft.
 “Hidden Community Detection on Two-layer Stochastic Models: a
 Theoretical Prospective.” In *International Conference on Theory and
 Applications of Models of Computation (TAMC)*, 2020. Springer.
-([arxiv](https://arxiv.org/abs/2001.05919))
+(TAMC version: [arxiv](https://arxiv.org/abs/2001.05919))
+(In submission journal version: [arxiv](https://arxiv.org/abs/2108.00127))
+
+
+Talks
+============
++ **2021.10** (Upcoming) Present a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). 
+
++ **2021.02** Presented a recent work on generating weakest pre-expectation at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
+
++ **2020.10** Led discussion of [Data-Driven Inference of Representation Invariants](https://pldi20.sigplan.org/details/pldi-2020-papers/7/Data-Driven-Inference-of-Representation-Invariants) at UW Madison's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/).
+
 
 
 Teaching
