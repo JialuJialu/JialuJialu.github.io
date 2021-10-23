@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often statistical properties and thus difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinh.su/) to explore my interests. 
+I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinh.su/) to explore my interests. 
 
 Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
 and prior to that, I did my undergrad at Cornell majoring in Mathematics and Computer Science. 
@@ -39,7 +39,7 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 
 Talks
 ============
-+ **2021.10** (Upcoming) Present a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). 
++ **2021.10** Present a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). 
 
 + **2021.02** Presented a recent work on generating weakest pre-expectation at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
 
