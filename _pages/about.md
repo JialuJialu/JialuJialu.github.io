@@ -39,7 +39,7 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 
 Talks
 ============
-+ **2021.10** Present a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). 
++ **2021.10** Presented a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). 
 
 + **2021.02** Presented a recent work on generating weakest pre-expectation at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
 
