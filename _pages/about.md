@@ -22,7 +22,7 @@ Publications
 ============
 Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
 Conditionally accepted to *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
-(email me for a draft and available online soon)
+([arxiv](https://arxiv.org/pdf/2111.14917.pdf))
 
 Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.  “A Bunched Logic for Conditional Independence.” 
 In *ACM/IEEE Symposium on Logic in Computer Science (LICS)*, 2021.
