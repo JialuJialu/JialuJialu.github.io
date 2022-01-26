@@ -21,8 +21,9 @@ Jialu Bao, Drashti Pathak, Justin Hsu, Subhajit Roy. "Data-Driven Invariant Lear
 Publications
 ============
 Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. "A Separation Logic for Negative Dependence."
-Conditionally accepted to *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
+In *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
 ([arxiv](https://arxiv.org/pdf/2111.14917.pdf))
+([video](https://www.youtube.com/watch?v=hD5p1EoWr4I))
 
 Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.  “A Bunched Logic for Conditional Independence.” 
 In *ACM/IEEE Symposium on Logic in Computer Science (LICS)*, 2021.
@@ -49,9 +50,12 @@ Talks
 
 Teaching
 ============
++ **Spring 22** [CS 3110 Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2022sp/) by Prof. [Nate Foster](https://www.cs.cornell.edu/~jnfoster/) and [Justin Hsu](https://justinh.su/)
+
 + **Fall 21** [CS 6182 Foundations of Probabilistic Programming](https://www.cs.cornell.edu/courses/cs6182/2021fa/) by Prof. [Justin Hsu](https://justinh.su/)
 
 + **Spring 18 & 19** [CS 3110 Data Structures and Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2019sp/) by Prof. [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+
 + **Fall 18** [CS 4820 Introduction to Analysis of Algorithms](https://www.cs.cornell.edu/courses/cs4820/2018fa/), by Prof. [Eva Tardos](https://www.cs.cornell.edu/~eva/) and [Xanda Schofield](https://www.cs.hmc.edu/~xanda/#/)
 
 + **Fall 17** [CS 2850 Networks](https://courses.cit.cornell.edu/info2040_2017fa/), by Prof. [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/) and [David Easley](https://easley.economics.cornell.edu/) 

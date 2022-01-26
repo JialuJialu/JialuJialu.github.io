@@ -1,0 +1,111 @@
+---
+layout: single
+title:  "Tips for passing Cornell's ITAP Assessment and Why It Needs to Change"
+date:   2022-01-25 3:05 -0500
+categories: notes
+---
+_This beginning is mainly my rant._
+  
+Before starting my TA assistantship at Cornell, I got an email about an English assessment from International Teaching Assistant Program (ITAP). I took the assessment with confidence, but to my surprise, I got the lowest rating that ITAP gives (Intermediate Mid). I emailed to argue, showing past students' evaluations as supporting materials, but it was to no avail. I still had to enroll in a semester-long course (ALS 5780) that meets 2 x 75 mins each week to practice speaking English. In each class, I got paired up with fellow international students who also failed that assessment -- a great portion of them speak fluently and clearly in my opinion -- to practice responses to typical assessment questions.  Furthermore, I was told that I could not perform any TA duties involving oral communications for the whole semester. We did another assessment towards the end of that semester. I got rated Advanced Low for that one and can assume full TA responsibility without taking the class again. Did my oral English proficiency jump two levels during the three months between my two assessments (the first one taken in mid-August 2021, and the second one taken in early November 2021)? I would say no. Honestly, I don't know exactly why I got different ratings. What I did learn more about are ITAP assessment's implicit expectations, which I wish to know in the first place, so I want to write them down in case they may help others in the future. 
+ 
+And a bit of disclaimer... Take my tips with a grain of salt. They are just my personal, crude understanding of the assessment and could be misleading. If you have also taken the class and have some tips, maybe consider post them publicly too to help future international students. Also, while trying to understanding how the assessment works and giving tips, I do not think the current ITAP assessment is just and effective, for reasons explained in the bottom of this post. 
+
+## Overview of the Expectation
+
+The ITAP assessment adapts from ACTFL's Oral Proficiency Interview (OPI). While OPI has 12 levels, Cornell ITAP assessment only gives three ratings to international TAs taking the test: Intermediate Med, Intermediate High, and Advanced Low. I got lost when reading [the official description of these levels](https://www.actfl.org/sites/default/files/guidelines/ACTFLProficiencyGuidelines2012.pdf), but my crude understanding is that: 
+- To demonstrate the Intermediate Med level, we need to give satisfactory responses to "Description" prompts;
+- To reach the Advanced Low level, we need to give good responses to "Narration" and "Compare and Contrast" prompts;
+- Intermediate High is in between the above two. I'm not sure where is the line. 
+
+Since the assessment is conducted as an oral interview and the assessor asks questions based on what we have said, it is easy to mistake it as a casual chat and expect back-and-forth conversions. While succinct responses in real-life conversations do no harm, if our responses are too short in this interview, we might be assessed as not being able to carry out "extended discourse." For each prompt, they expect us to **give 2~3 mins response.** If they rephrase the last question or ask for elaboration after we finish a response, that indicates that our previous response was too short. 
+
+## The Process
+
+Before the assessment, ITAP would ask you to fill out a survey about personal interests and experiences. 
+- Try to fill that survey a bit in advance. I waited until the day I did the assessment and experienced software glitches. 
+- If you put an experience or hobby on that survey, familiarize with the vocabulary needed to talk about it in English. 
+
+
+At the beginning of the assessment, the assessor would ask students not to record the interview, citing that the assessment is a proprietary tool. (Digression: I couldn't find rules regarding students' recording on ACTFL's website, though what the assessor told could be real. What puzzled me is that if the concern is really the leakage of proprietary assets, it seems to be too easy to breach -- the interview is conducted via Zoom and the assessor couldn't tell whether the student is recording outside of Zoom. I'm not familiar with legal matters and won't take responsibility if recording the interview gets you into trouble, but there may be benefits to record the assessment. One apparent one is for self-reflection. While the assessor records the interview for internal review, students are denied access to their recordings and cannot listen to what exactly we said in the interview. In addition, I heard anecdotes that people successfully argued for a higher rating with a recording, but I haven't tried that myself and don't know if that still works. )
+
+
+Then the assessment proceeds with two parts as Cornell's Center of Teaching Innovation website introduces: 
+
+>> In the first part of the assessment, you will be asked to talk about one of the topics you provided in the application. Be sure to give a comprehensive response to the assessor's questions, telling the whole story about the topic you are discussing. If the assessor asks about a topic you no longer wish to discuss, let them know, and they will select a new topic.
+
+>> In the second part of the assessment, you will be asked to explain an introductory concept from your field, at a level understandable to an undergraduate student new to the field. You will need to give your explanation without the benefit of visual aids such as PowerPoint slides. However, you may use notes, provided you do not read directly from them. Although you will discuss a concept from your field, your teaching is not being assessed. Rather, this is an opportunity for you to talk about a topic with which you are familiar.
+
+
+In the first part, the assessed student would get three kinds of questions: Descriptions, Narrations, Compare and Contrast. 
+While "Compare and Contrast" tasks are signaled by the keywords ("compare", "contrast") in the prompt, the line between "Narration" and "Description" tasks is more blurry. I think the difference is that for Narrations, they expect a **story**, the account of a particular event (usually in **past tense**), while for Descriptions, it suffices to give a general account (okay to use simple present tense throughout). In particular, when the prompt asks for "an example of ...", "a time ...", they expect a narration response. When responding, it helps to recall a particular example/event, even if the thing you are describing is a habit/pattern in your life. For "Compare and Contrast", it is also okay -- and more natural in many cases-- to give general accounts of two things being compared.
+
+
+I think the second part is meant to simulate our working environment when we are TAing.  In the initial assessment, it asks the student to teach a introductory concept. In my experience, the assessor asked me a question after I talked for about 2-3 mins, and the whole part lasts for about 5 mins. In the following assessment, it asks the student to participate in a role-play task, usually dealing with conflicts and confrontations from students, and lasts for about the same time. In the 5780 course, we only started to practice role-play two or three weeks before the assessment, and I don't recall getting a detailed self-evaluation form specifically designed for this part. So I suspect that the language expectation for this part is about the same as for the first part, besides that the questions you get may be more confrontational. 
+
+
+## Aspects to focus on
+- **Time frame control**
+
+	- We are expected to master **present/past/future progressive and simple present/past/future tenses**. The assessors are quite strict on our usage of those tenses and less strict on our usage of perfect tense or modal phrases. ([This](https://owl.purdue.edu/owl/general_writing/grammar/active_verb_tenses.html) is a good description)
+
+	- When a past tense statement talks about a fact that still holds at present, it may be grammatically correct to use either past tense or present tense. Ex. I took a class from a professor who works/worked at XX domain. Just looking at the sentence, it should be okay to use either "works" if the professor is still working in that domain or "worked" to describe the situation when "I took the class". However, to demonstrate to the assessor that we are consistently using past tenses for past events, it's probably safer to use the past tense in such cases. 
+
+- **Speak in paragraphs**
+
+	- Try reordering sentences in a response, and if they don't sound weird after reordering, then the response is not considered as a paragraph (in this assessment). 
+
+	- For Narrations, one natural way to organize our stories is by time order. There are also other options, e.g., following the STAR method. 
+
+	- There are also many approaches to structuring a comparison. For example, you can
+
+		1. compare point by point, e.g.: 
+
+		On aspect A, the first thing is... Similarly/In contrast, the second thing is... 
+
+		On aspect B, the first thing is... Similarly/In contrast, the second thing is... 
+
+		2. group similarities and differences together, e.g.: 
+
+		A and B are similar in alpha and beta aspects. In alpha/beta, A is ..., and B has similar ... 
+
+		A and B are different in sigma. A has ..., and in contrast, B has ...
+
+	-   Make sure to stick to one structure in one response. 
+	-   Use **transition words** when you enter a new component of the response.
+
+- **Transition words**
+
+	- Going through lists of transition words helps (like [this](https://www.smart-words.org/linking-words/transition-words.html), or [this](http://writing2.richmond.edu/writing/wweb/trans1.html)). There is no need to memorize all of them. For me, reading through them reloads those phrases that I once knew into the "cache" of my brain and makes it easier to recall them when speaking improvised.  (Not related but the name "smart words" makes me cringe a bit. Why are we so insecure about not being perceived as smart? )
+
+	- Refrain the use of "and then" when connecting two consecutive sentences. Often time, we can find more precise transition words than "and then" to connect them. For instance, "One happens. _Afterwards_ the other happens", or "One happens. _Consequentially_, the other happens."
+
+	- When using a transition word or phrase, make sure that you accurately know its meaning and usage. 
+
+- Ending consonants
+
+	- Ex. the ending sound "t" in "but," "about," the ending sound "d" in many past tense verbs
+
+	- The assessor is quite strict about this aspect, and to make the matter worse, the interviews are conducted online and microphones may not pick up some weak sounds. It may be helpful to slow down and consciously think about the syllables when practicing. 
+
+
+
+## Other Tips
+
+- It's worth the time to practice the following a couple of times: 
+	- Pick something that you want to tell others about, and improvise 2~3 mins speech, and record at the same time. 
+	- Listen to the recording afterward and pay attention to the aspects mentioned above when listening. 
+- (Just a cynical tip:) Don't say things that would make the assessors think that you don't mind taking the class!  
+
+## Why Do I Think ITAP Needs to Change? 
+
+  In the end, I want to write my view on the International Teaching Assistant Program (the requirement, its assessment, and class). A recent [survey](https://assembly.cornell.edu/sites/default/files/itap_report.pdf) conducted by Cornell Graduate and Professional Student Assembly shows that 90.5% of respondents think that the ITAP must change (among these, 46% believe it should be completely discontinued), and 64.1% believe that ITAP places an undue burden on international students. After taking its assessment and its class, I also look forward a radical change of the International Teaching Assistant Program at Cornell. 
+
+  1. A good assessment needs to be reliable, i.e. its rating should not vary substantially when repeated with the same setting, or repeated with settings that only differ in unrelated factors. The reliability of the ITAP assessment is questionable because it is administrated without informing students the expectation. On the basis to measure students' true English speaking quality, ITAP does not provide sample questions or the detailed expectations (e.g. those forms they give to students in the ALS 5780 class) to first-time test takers. This puts the first-time test takers in great disadvantage, because despite of the claim that the test measures true English speaking quality, whether students know its implicit expectations (e.g. it wants 2~3 minutes responses, it hurts to give a general account when asked to narrate) can sway the ratings greatly. Furthermore, the assessment is currently conducted via zoom meeting, so some of students' speech (e.g. end consonants) may get lost in transmission, thus resulting in different ratings for the same student in different settings. 
+  2. A sensible requirement should be based on a valid assessment -- a procedure that measures what it proposes to measure. The ITAP requirement is only sensible for international students if its ratings can predict how well a non-native speaker teaches in their domain. However, the interview format of the ITAP assessment is quite different from teaching a class/recitation, despite including a role-play component. First of all, the assessment mainly tests on speaking in responsive mode, but in teaching, speaking in intensive mode is equally (if not more) important. Second, vocabularies and language skills needed for teaching in different domains are different, and often they are also very different from what the test assessed. For instance, being able to narrate well a story of learning instruments is not very relevant to teaching in Computer Science. Moreover, there are empirical evidence that international TAs can be successful without the ITAP. In Cornell CIS (Computer and Information Sciences), many classes hire undergrad TAs, a lot of whom do not speak English as their first language. These undergrad TAs start holding office hours and leading discussion sessions without taking the ITAP assessment and perform their jobs successfully. 
+  3. Conflicts of interests.  In the current structure of ITAP, most assessors are also employed to instruct the ITAP course. Thus, their job security depends on having enough students (required to) enroll in that course, which creates an economic incentive for them to fail a portion of students. Meanwhile, the assessing process lacks accountability: students are denied access to their interview recordings; while they do get a written feedback, they could be left in the dark about why they get a certain comment. For instance, in my initial assessment, the assessor noted that I "mixed up L and R, " a common mix-up for Mandarin speakers from some regions -- but uncommon for people from my home region. I raised my doubt to my instructor, and she was not able to point out where exactly I mixed them up. 
+      I am not saying that the assessors are currently failing students for thier own interests, but to prevent that from happening, the school needs to make the rating process more accountable and create incentives for valid and reliable assessments.  
+						4.  International Teaching Assistant Program should support international teaching assistants instead of putting unnecessary burden on us. The data that 64.1% survey takers believed that ITAP places an undue burden on international students speaks itelf for a need to change. It is crucial for an university to ensure good quality teaching, but there are more effective ways to improve graduate students' teaching skills than requiring us to sit through 75 mins classes and practice artificial prompts. For instance, personally I would love to see a drop-in clinic where we can practice teaching, get feedback and ask questions.
+
+
+While there had been reforms within ITAP over the years, e.g. removing and then adding back the course for students who have taken 5780 (previously EDUC 579, now ALS 5790), I believe ITAP needs to undergo radical changes under the supervision of undergraduates, graduate students, and third-party experts to address its current problems.  
+
