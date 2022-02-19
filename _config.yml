@@ -21,7 +21,7 @@ url: "jialujialu.github.io" # the base hostname & protocol for your site, e.g. h
 author:
   name: "Jialu Bao"
   avatar: "/assets/images/bio-photo.jpeg"
-  bio: "My first name is pronounced as J·ah·loo :D" # Note: Markdown is allowed
+  bio: "My first name is pronounced as J·ah·loo. " # Note: Markdown is allowed
   location: "Ithaca, NY"
   links:
     - label: "Twitter"
