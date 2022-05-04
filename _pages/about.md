@@ -58,7 +58,7 @@ Talks
 + **2020.10** Led discussion of [Data-Driven Inference of Representation Invariants](https://pldi20.sigplan.org/details/pldi-2020-papers/7/Data-Driven-Inference-of-Representation-Invariants) at UW Madison's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/).
 
 + **2020.01** Presented a poster on  “A Logic for Verifying Conditional Independence and Join Dependency” 
-+ at POPL 2020's Student Research Competition. 
+at POPL 2020's Student Research Competition. 
 
 Teaching
 ============
