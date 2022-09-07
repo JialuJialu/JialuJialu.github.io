@@ -23,8 +23,9 @@ Publications
 ============
 Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. 
 "Data-Driven Invariant Learning for Probabilistic Programs."
-In International Conference on Computer Aided Verification (CAV), 2022. 
-([preprint]({{site.baseurl}}/assets/preprints/EXIST.pdf))
+In *International Conference on Computer Aided Verification (CAV)*, 2022. 
+Distinguished Paper Award. 
+([arxiv](https://arxiv.org/abs/2106.05421))
 ([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
 
 Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. 
@@ -49,9 +50,13 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 
 Talks
 ============
-+ **2022.03** Presented a "Data-Driven Invariant Learning for Probabilistic Programs" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).  ([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
++ **2022.08**  Presented "Formally Reasoning about (In)dependencies in Probabilistic Programs" at my A-Exam.  ([slide]({{site.baseurl}}/assets/talk_slides/A-exam.pdf))
++
++ **2022.06** Presented "Data-Driven Invariant Learning for Probabilistic Programs" at OPLSS 2022 Participants Talk. 
 
-+ **2021.10** Presented a "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). ([slide]({{site.baseurl}}/assets/talk_slides/negdep_1hr.pdf))
++ **2022.03** Presented "Data-Driven Invariant Learning for Probabilistic Programs" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).  ([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
+
++ **2021.10** Presented "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). ([slide]({{site.baseurl}}/assets/talk_slides/negdep_1hr.pdf))
 
 + **2021.02** Presented a preliminary work on "Data-Driven Invariant Learning for Probabilistic Programs" at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
 
