@@ -50,11 +50,15 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 
 Talks
 ============
-+ **2022.08**  Presented "Formally Reasoning about (In)dependencies in Probabilistic Programs" at my A-Exam.  ([slide]({{site.baseurl}}/assets/talk_slides/A-exam.pdf))
-+
++ Led discussion of [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf) (the seminal FLP impossibility result) in [CS 6410 Advanced Systems](https://www.cs.cornell.edu/courses/cs6410/2022fa/schedule/). ([slide]({{site.baseurl}}/assets/talk_slides/CS6410_FLP.pdf))
+
++ **2022.08**  Proposed "Formally Reasoning about (In)dependencies in Probabilistic Programs" for my A-Exam.  ([slide]({{site.baseurl}}/assets/talk_slides/A-exam.pdf))
+
 + **2022.06** Presented "Data-Driven Invariant Learning for Probabilistic Programs" at OPLSS 2022 Participants Talk. 
 
 + **2022.03** Presented "Data-Driven Invariant Learning for Probabilistic Programs" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).  ([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
+
++ **2022.02** Led discussion of [“Sometimes” and “not never” revisited: on branching versus linear time temporal logic](https://dl.acm.org/doi/10.1145/4904.4999) at Cornell PL's [Great Works seminar](https://pl.cs.cornell.edu/great-works/2022sp/). ([slide]({{site.baseurl}}/assets/talk_slides/temporal_logic.pdf))
 
 + **2021.10** Presented "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). ([slide]({{site.baseurl}}/assets/talk_slides/negdep_1hr.pdf))
 
