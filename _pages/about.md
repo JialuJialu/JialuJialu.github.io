@@ -4,20 +4,24 @@ layout: single
 permalink: /about/
 ---
 
-I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinh.su/) to explore my interests. 
+I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinhsu.net/) to explore my interests. 
 
 Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
-and prior to that, I did my undergrad at Cornell majoring in Mathematics and Computer Science. 
+and prior to that, I did my undergrad also at Cornell majoring in Mathematics and Computer Science. 
 
 Email: jb965@cornell.edu
 
-
+News
+===========
+- **March 2023** I am visiting University of Toronto and am looking forward to meeting new people here to chat about research and life (^^)
+- **Feb. 2023** I am humbled to receive an honerable mention of [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
+- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We warmly invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
+- **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
 
 Drafts
 ===========
 Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
 "An abstract approach to conditional independence in DIBI models." 
-([preprint]({{site.baseurl}}/assets/preprints/catDIBI.pdf))
 
 Publications
 ============
@@ -45,7 +49,7 @@ Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft.
 Theoretical Prospective.” In *International Conference on Theory and
 Applications of Models of Computation (TAMC)*, 2020. Springer.
 (TAMC version: [arxiv](https://arxiv.org/abs/2001.05919))
-(In submission journal version: [arxiv](https://arxiv.org/abs/2108.00127))
+(Unpublished extended version: [arxiv](https://arxiv.org/abs/2108.00127))
 
 
 Talks
