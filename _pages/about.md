@@ -11,12 +11,6 @@ and prior to that, I did my undergrad also at Cornell majoring in Mathematics an
 
 Email: jb965@cornell.edu
 
-News
-===========
-- **March 2023** I am visiting University of Toronto and am looking forward to meeting new people here to chat about research and life (^^)
-- **Feb. 2023** I am humbled to receive an honerable mention of [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
-- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We warmly invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
-- **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
 
 Drafts
 ===========
@@ -51,6 +45,11 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 (TAMC version: [arxiv](https://arxiv.org/abs/2001.05919))
 (Unpublished extended version: [arxiv](https://arxiv.org/abs/2108.00127))
 
+News
+===========
+- **March 2023** I am humbled to receive an honerable mention of [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
+- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We warmly invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
+- **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
 
 Talks
 ============
