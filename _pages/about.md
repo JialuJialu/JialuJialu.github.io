@@ -15,7 +15,8 @@ Email: jb965@cornell.edu
 Drafts
 ===========
 Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
-"An abstract approach to conditional independence in DIBI models." 
+"A Categorical Approach DIBI models." 
+([preprint](https://baojia.lu/assets/preprints/catDIBI.pdf)) 
 
 Publications
 ============
