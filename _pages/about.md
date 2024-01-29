@@ -16,10 +16,15 @@ Drafts
 ===========
 Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
 "A Categorical Approach DIBI models." 
-([preprint](https://baojia.lu/assets/preprints/catDIBI.pdf)) 
+([arxiv](https://arxiv.org/abs/2401.05842)) 
 
 Publications
-============
+============ 
+Oliver Richardson, Jialu Bao. 
+"Mixture Languages."
+In *The Languages for Inference (LAFI) workshop*, 2024. 
+([extended abstract](https://popl24.sigplan.org/details/lafi-2024-papers/1/Mixture-Languages))
+
 Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. 
 "Data-Driven Invariant Learning for Probabilistic Programs."
 In *International Conference on Computer Aided Verification (CAV)*, 2022. 
@@ -48,13 +53,17 @@ Applications of Models of Computation (TAMC)*, 2020. Springer.
 
 News
 ===========
-- **March 2023** I am humbled to receive an honerable mention of [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
+- **March 2023** I am humbled to receive an [honerable mention of Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
 - **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We warmly invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
 - **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
 
 Talks
-============
-+ Led discussion of [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf) (the seminal FLP impossibility result) in [CS 6410 Advanced Systems](https://www.cs.cornell.edu/courses/cs6410/2022fa/schedule/). ([slide]({{site.baseurl}}/assets/talk_slides/CS6410_FLP.pdf))
+============  
++ **2023.10** Talked about  "A Separation Logic for Negative Dependence" at Boston University's [POPV seminar](https://www.bu.edu/cs/research/popv/seminar/). 
+
++ **2023.03** Presented "Proving Hypersafety Compositionally" by Emanuele D’Osualdo, Azadeh Farzan and Derek Dreyer at  Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2023sp/). ([slide]({{site.baseurl}}/assets/talk_slides/pldg-lhc.pdf))
+
++ **2022.09** Led discussion of [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf) (the seminal FLP impossibility result) in [CS 6410 Advanced Systems](https://www.cs.cornell.edu/courses/cs6410/2022fa/schedule/). ([slide]({{site.baseurl}}/assets/talk_slides/CS6410_FLP.pdf))
 
 + **2022.08**  Proposed "Formally Reasoning about (In)dependencies in Probabilistic Programs" for my A-Exam.  ([slide]({{site.baseurl}}/assets/talk_slides/A-exam.pdf))
 
@@ -68,10 +77,11 @@ Talks
 
 + **2021.02** Presented a preliminary work on "Data-Driven Invariant Learning for Probabilistic Programs" at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
 
-+ **2020.10** Led discussion of [Data-Driven Inference of Representation Invariants](https://pldi20.sigplan.org/details/pldi-2020-papers/7/Data-Driven-Inference-of-Representation-Invariants) at UW Madison's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/).
++ **2020.10** Led discussion of [Data-Driven Inference of Representation Invariants](https://pldi20.sigplan.org/details/pldi-2020-papers/7/Data-Driven-Inference-of-Representation-Invariants) by Anders Miltner, Saswat Padhi, Todd Millstein and David Walker at UW Madison's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/).
 
 + **2020.01** Presented a poster on  “A Logic for Verifying Conditional Independence and Join Dependency” 
 at POPL 2020's Student Research Competition. 
+
 
 Teaching
 ============
