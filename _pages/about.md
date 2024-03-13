@@ -13,7 +13,11 @@ Email: jb965@cornell.edu
 
 
 Drafts
-===========
+=========== 
+Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan 
+"Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning"
+([arxiv](https://arxiv.org/abs/2402.18708))
+
 Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
 "A Categorical Approach DIBI models." 
 ([arxiv](https://arxiv.org/abs/2401.05842)) 
