@@ -18,12 +18,14 @@ Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan
 "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning"
 ([arxiv](https://arxiv.org/abs/2402.18708))
 
-Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
-"A Categorical Approach DIBI models." 
-([arxiv](https://arxiv.org/abs/2401.05842)) 
 
 Publications
 ============ 
+Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
+"A Categorical Approach DIBI models." 
+In *International Conference on Formal Structures for Computation and Deduction (FSCD)*, 2024
+([arxiv](https://arxiv.org/abs/2401.05842)) 
+
 Oliver Richardson, Jialu Bao. 
 "Mixture Languages."
 In *The Languages for Inference (LAFI) workshop*, 2024. 
