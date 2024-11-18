@@ -1,71 +1,121 @@
 ---
 title: About me
 layout: single
+classes: wide
 permalink: /about/
 ---
+
 
 I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinhsu.net/) to explore my interests. 
 
 Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
 and prior to that, I did my undergrad also at Cornell majoring in Mathematics and Computer Science. 
 
+
 Email: jb965@cornell.edu
 
-
-Drafts
-=========== 
-Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan 
-"Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning"
-([arxiv](https://arxiv.org/abs/2402.18708))
 
 
 Publications
 ============ 
-Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.
-"A Categorical Approach DIBI models." 
-In *International Conference on Formal Structures for Computation and Deduction (FSCD)*, 2024
-([arxiv](https://arxiv.org/abs/2401.05842)) 
 
-Oliver Richardson, Jialu Bao. 
-"Mixture Languages."
-In *The Languages for Inference (LAFI) workshop*, 2024. 
-([extended abstract](https://popl24.sigplan.org/details/lafi-2024-papers/1/Mixture-Languages))
+**Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning**\
+Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Symposium on Principles of Programming Languages (POPL) 2025.
+</span>\
+[[arxiv](https://arxiv.org/abs/2402.18708)]
 
-Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. 
-"Data-Driven Invariant Learning for Probabilistic Programs."
-In *International Conference on Computer Aided Verification (CAV)*, 2022. 
-Distinguished Paper Award. 
-([arxiv](https://arxiv.org/abs/2106.05421))
-([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
+**A Categorical Approach DIBI models**\
+Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.\
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Formal Structures for Computation and Deduction (FSCD) 2024.
+</span>\
+[[arxiv](https://arxiv.org/abs/2401.05842)]
 
+**Mixture Languages**\
+Oliver Richardson, Jialu Bao. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            The Languages for Inference Workshop (LAFI) 2024.
+</span>\
+[[extended abstract](https://popl24.sigplan.org/details/lafi-2024-papers/1/Mixture-Languages)]
+
+**Data-Driven Invariant Learning for Probabilistic Programs**\
+Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+             Distinguished Paper Award, Computer Aided Verification (CAV) 2022. 
+</span>\
+Journal version will appear on 
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Formal Methods in Systems Design (FMSD). 
+</span>\
+[[arxiv](https://arxiv.org/abs/2106.05421)]
+[[extended abstract](https://www.ijcai.org/proceedings/2023/0712.pdf)]
+[[slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf)]
+
+**A Separation Logic for Negative Dependence**
 Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. 
-"A Separation Logic for Negative Dependence."
-In *ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)*, 2022.
-([arxiv](https://arxiv.org/pdf/2111.14917.pdf))
-([5 min video](https://www.youtube.com/watch?v=hD5p1EoWr4I))
-([20 min video](https://www.youtube.com/watch?v=eRhBZuIAQY4&list=PLyrlk8Xaylp4uPnEfcP5jETxhm50XTit9&index=1))
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Symposium on Principles of Programming Languages (POPL) 2022.
+</span>\
+[[arxiv](https://arxiv.org/pdf/2111.14917.pdf)]
+[[5 min video](https://www.youtube.com/watch?v=hD5p1EoWr4I)]
+[[20 min video](https://www.youtube.com/watch?v=eRhBZuIAQY4&list=PLyrlk8Xaylp4uPnEfcP5jETxhm50XTit9&index=1)]
 
-Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.  “A Bunched Logic for Conditional Independence.” 
-In *ACM/IEEE Symposium on Logic in Computer Science (LICS)*, 2021.
+**A Bunched Logic for Conditional Independence**\
+Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+             Symposium on Logic in Computer Science (LICS) 2021.
+</span>\
 ([arxiv](https://arxiv.org/abs/2008.09231)) 
 ([video](https://www.youtube.com/watch?v=VKb96bi3EhM))
 
-Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft. 
-“Hidden Community Detection on Two-layer Stochastic Models: a
-Theoretical Prospective.” In *International Conference on Theory and
-Applications of Models of Computation (TAMC)*, 2020. Springer.
-(TAMC version: [arxiv](https://arxiv.org/abs/2001.05919))
-(Unpublished extended version: [arxiv](https://arxiv.org/abs/2108.00127))
+**Hidden Community Detection on Two-layer Stochastic Models
+Theoretical Prospective**\
+Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Theory and Applications of Models of Computation (TAMC) 2020.
+</span>\
+Journal version will appear on 
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            Transactions on Knowledge Discovery from Data (TKDD). 
+</span>\
+[[conference version arxiv](https://arxiv.org/abs/2001.05919)]
+[[journal version arxiv](https://arxiv.org/abs/2108.00127)]
 
 News
 ===========
+- **May - Aug. 2024** I had the opportunity to intern with a wonderful team at [Basis Research Institute](https://www.basis.ai/)! 
 - **March 2023** I am humbled to receive an [honerable mention of Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
-- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We warmly invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
+- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
 - **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
 
 Talks
 ============  
-+ **2023.10** Talked about  "A Separation Logic for Negative Dependence" at Boston University's [POPV seminar](https://www.bu.edu/cs/research/popv/seminar/). 
++ **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
+
++ **2024.02** Presented "Views: Compositional Reasoning for Concurrent Programs" by Thomas Dinsdale-Young, Lars Birkedal, Philippa Gardner, Matthew Parkinson and Hongseok Yang 
+ at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
+
++ **2023.11** Talked about  "A Separation Logic for Negative Dependence" at Boston University's [POPV seminar](https://www.bu.edu/cs/research/popv/seminar/). 
 
 + **2023.03** Presented "Proving Hypersafety Compositionally" by Emanuele D’Osualdo, Azadeh Farzan and Derek Dreyer at  Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2023sp/). ([slide]({{site.baseurl}}/assets/talk_slides/pldg-lhc.pdf))
 

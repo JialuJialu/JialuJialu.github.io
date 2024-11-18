@@ -24,19 +24,21 @@ author:
   bio: "My first name is pronounced as J·ah·loo. " # Note: Markdown is allowed
   location: "Ithaca, NY"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Howowhy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JialuJialu"
       # - label: "Medium"
       #   icon: "fab fa-fw fa-medium"
       #   url: "https://medium.com/@jialubao"
-      # - label: "Linkedin"
-      #   icon: "fab fa-fw fa-linkedin"
-      #   url: "https://www.linkedin.com/in/jialu-bao/"
-      # github_username:  JialuJialu
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jialu-bao/"
+        #- label: "instagram"
+        #  icon: "fab fa-fw fa-instagram"
+        #  url: "https://www.instagram.com/jialubao/"
+    - label: "mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mathstodon.xyz/@baojialu"
 
 # Build settings
 lsi: false

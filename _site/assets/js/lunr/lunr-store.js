@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/notes/scribes/",
         "teaser": null
+      },{
+        "title": "Tips for passing Cornell's ITAP Assessment and Why It Needs to Change",
+        "excerpt":"This beginning is mainly my rant. Before starting my TA assistantship at Cornell, I got an email about an English assessment from International Teaching Assistant Program (ITAP). I took the assessment with confidence, but to my surprise, I got the lowest rating that ITAP gives (Intermediate Mid). I emailed to...","categories": ["notes"],
+        "tags": [],
+        "url": "/notes/itap/",
+        "teaser": null
       }]
