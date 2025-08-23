@@ -6,14 +6,17 @@ permalink: /about/
 ---
 
 
-I am a computer science Ph.D. student at Cornell, working on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I want to address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. I am very fortunate to be advised by Prof. [Justin Hsu](https://justinhsu.net/) to explore my interests. 
-
-Before moving to Cornell with my advisor, I spent two wonderful years at University of Wisconsin -- Madison as a Ph.D. student, 
-and prior to that, I did my undergrad also at Cornell majoring in Mathematics and Computer Science. 
+I am a postdoctoral researcher at Northeastern University, working with 
+Prof. [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/). 
+I obtained my Ph.D. at Cornell University, advised by Prof. [Justin Hsu](https://justinhsu.net/). 
+My Ph.D. research focuses on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. 
+Prior to my Ph.D., I obtained Bachelor of Arts also at Cornell University, 
+majoring in Mathematics and Computer Science. 
+View my [professional summary]({{site.baseurl}}/assets/CV.pdf)
+here. 
 
 
 Email: jb965@cornell.edu
-
 
 
 Publications
@@ -53,7 +56,7 @@ Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. \
             ">
              Distinguished Paper Award, Computer Aided Verification (CAV) 2022. 
 </span>\
-Journal version will appear on 
+Journal version appears on 
 <span style="font-variant-caps: all-small-caps;
              color: darkred;
             ">
@@ -92,7 +95,7 @@ Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft. \
             ">
             Theory and Applications of Models of Computation (TAMC) 2020.
 </span>\
-Journal version will appear on 
+Journal version appears on 
 <span style="font-variant-caps: all-small-caps;
              color: darkred;
             ">
@@ -102,24 +105,26 @@ Journal version will appear on
 [[journal version arxiv](https://arxiv.org/abs/2108.00127)]
 
 News
-===========
-- **May - Aug. 2024** I had the opportunity to intern with a wonderful team at [Basis Research Institute](https://www.basis.ai/)! 
+=========== 
+
+- **Aug. 2025** I will attend [Upstate PL Seminar 2025](https://www.cs.cornell.edu/upstate-pl/). 
+- **July 2025** I passed my B exam (thesis defense)! 
+- **March - May. 2025** I had the pleasure to visit Prof. [Alexandra Silva](https://alexandrasilva.org)'s group at University College London! 
+- **May - Aug. 2024** I had the opportunity to intern with a wonderful team at [Basis Research Institute](https://www.basis.ai/)!
+- **Aug. 2023** I attended Marktoberdorf Summer School. 
 - **March 2023** I am humbled to receive an [honerable mention of Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/) this year. 
-- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! We invite anyone who is interested in programming language research, regardless of their background, to join us as mentors, mentees, or both. 
-- **Aug. 2022** I passed my A-exam and became a Ph.D. candidate. 
+- **Nov. 2022** I am excited about joining the Operations Team of [SIGPLAN Long-Term Mentoring Committee](https://www.sigplan.org/LongTermMentoring/)! The programs welcomes aspiring and current programming languages researchers from all walks of life to serve as mentors, mentees, or both. SIGPLAN members and non-members alike are welcome, and there is no cost to participate. There are no limitations on country of residence or languages spoken.
+- **Aug. 2022** I passed my A exam and became a Ph.D. candidate.
+- **July 2022** I attended Oregon Programming Languages Summer School (OPLSS). 
 
 Talks
-============  
-+ **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
+============
++ **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Portland State University's PLV Seminar.
 
-+ **2024.02** Presented "Views: Compositional Reasoning for Concurrent Programs" by Thomas Dinsdale-Young, Lars Birkedal, Philippa Gardner, Matthew Parkinson and Hongseok Yang 
- at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
++ **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
 
 + **2023.11** Talked about  "A Separation Logic for Negative Dependence" at Boston University's [POPV seminar](https://www.bu.edu/cs/research/popv/seminar/). 
 
-+ **2023.03** Presented "Proving Hypersafety Compositionally" by Emanuele D’Osualdo, Azadeh Farzan and Derek Dreyer at  Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2023sp/). ([slide]({{site.baseurl}}/assets/talk_slides/pldg-lhc.pdf))
-
-+ **2022.09** Led discussion of [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf) (the seminal FLP impossibility result) in [CS 6410 Advanced Systems](https://www.cs.cornell.edu/courses/cs6410/2022fa/schedule/). ([slide]({{site.baseurl}}/assets/talk_slides/CS6410_FLP.pdf))
 
 + **2022.08**  Proposed "Formally Reasoning about (In)dependencies in Probabilistic Programs" for my A-Exam.  ([slide]({{site.baseurl}}/assets/talk_slides/A-exam.pdf))
 
@@ -127,13 +132,9 @@ Talks
 
 + **2022.03** Presented "Data-Driven Invariant Learning for Probabilistic Programs" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).  ([slide]({{site.baseurl}}/assets/talk_slides/wpe_pldg.pdf))
 
-+ **2022.02** Led discussion of [“Sometimes” and “not never” revisited: on branching versus linear time temporal logic](https://dl.acm.org/doi/10.1145/4904.4999) at Cornell PL's [Great Works seminar](https://pl.cs.cornell.edu/great-works/2022sp/). ([slide]({{site.baseurl}}/assets/talk_slides/temporal_logic.pdf))
-
 + **2021.10** Presented "A Separation Logic for Negative Dependence" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2021fa/). ([slide]({{site.baseurl}}/assets/talk_slides/negdep_1hr.pdf))
 
 + **2021.02** Presented a preliminary work on "Data-Driven Invariant Learning for Probabilistic Programs" at [PPS-PIHOC-DIAPASoN Workshop](https://www.irif.fr/pps-pihoc-diapason2021)!
-
-+ **2020.10** Led discussion of [Data-Driven Inference of Representation Invariants](https://pldi20.sigplan.org/details/pldi-2020-papers/7/Data-Driven-Inference-of-Representation-Invariants) by Anders Miltner, Saswat Padhi, Todd Millstein and David Walker at UW Madison's [PL seminar](https://madpl.cs.wisc.edu/pl-seminar/).
 
 + **2020.01** Presented a poster on  “A Logic for Verifying Conditional Independence and Join Dependency” 
 at POPL 2020's Student Research Competition. 

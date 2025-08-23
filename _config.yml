@@ -38,7 +38,7 @@ author:
         #  url: "https://www.instagram.com/jialubao/"
     - label: "mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mathstodon.xyz/@baojialu"
+      url: "https://mastodon.social/@baojialu"
 
 # Build settings
 lsi: false
