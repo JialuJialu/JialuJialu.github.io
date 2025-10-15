@@ -8,15 +8,27 @@ permalink: /about/
 
 I am a postdoctoral researcher at Northeastern University, working with 
 Prof. [Steven Holtzen](https://www.khoury.northeastern.edu/home/sholtzen/). 
-I obtained my Ph.D. at Cornell University, advised by Prof. [Justin Hsu](https://justinhsu.net/). 
-My Ph.D. research focuses on the verification of randomized algorithms. The correctness and performance of randomized algorithms are often difficult to test or reason about. I address this problem by enabling simple and compositional **formal proofs** of probabilistic programs. 
-Prior to my Ph.D., I obtained Bachelor of Arts also at Cornell University, 
-majoring in Mathematics and Computer Science. 
+Before that, I obtained my Ph.D. at Cornell University, advised by Prof. [Justin Hsu](https://justinhsu.net/). 
+
+My research interests mainly lie in **formal verifications** and **programming language theory**. 
+My Ph.D. research focuses on the verifcation of randomized algorithms. 
+The correctness and performance of randomized algorithms are often difficult to test or reason about. I design **probabilistic separation logic** to leverage on probabilistic dependencies and independence to enable simpler and more compositional **formal proofs** of their correctness. 
+Recently, I am also working on **probabilistic inference with guarantees**. While probabilistic inference, i.e., updating the prior in probabilistic models based on new information, 
+is inherently a computationally hard task, it can be efficient under certain conditions. I aim to use programming language techniques to automatically derive guarantees 
+for probabilistic inference tasks programmed by the users. 
+
 View my [professional summary]({{site.baseurl}}/assets/CV.pdf)
 here. 
 
 
-Email: jb965@cornell.edu
+Email: jialu8ao@gmail.com
+
+
+Thesis
+============ 
+**Probabilistic Separation Logics for Randomized Algorithms**
+Jialu Bao. 
+[[PDF]()]
 
 
 Publications
@@ -29,7 +41,8 @@ Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan. \
             ">
             Symposium on Principles of Programming Languages (POPL) 2025.
 </span>\
-[[arxiv](https://arxiv.org/abs/2402.18708)]
+[[arxiv](https://arxiv.org/abs/2402.18708)] 
+[[talk](https://www.youtube.com/watch?v=Rq6dhLlpP7U)]
 
 **A Categorical Approach DIBI models**\
 Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.\
@@ -107,7 +120,7 @@ Journal version appears on
 News
 =========== 
 
-- **Aug. 2025** I will attend [Upstate PL Seminar 2025](https://www.cs.cornell.edu/upstate-pl/). 
+- **Aug. 2025** I attended [Upstate PL Seminar 2025](https://www.cs.cornell.edu/upstate-pl/). 
 - **July 2025** I passed my B exam (thesis defense)! 
 - **March - May. 2025** I had the pleasure to visit Prof. [Alexandra Silva](https://alexandrasilva.org)'s group at University College London! 
 - **May - Aug. 2024** I had the opportunity to intern with a wonderful team at [Basis Research Institute](https://www.basis.ai/)!
@@ -119,7 +132,9 @@ News
 
 Talks
 ============
-+ **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Portland State University's PLV Seminar.
++ **2025.4** Talked about "Automating Probabilistic Separation Logic" at Upstate PL Seminar 2025.
+
++ **2025.4** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Portland State University's PLV Seminar.
 
 + **2024.10** Talked about "Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning" at Cornell's [PLDG](https://pl.cs.cornell.edu/pldg/2022sp/).
 
