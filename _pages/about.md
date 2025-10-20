@@ -13,6 +13,7 @@ Before that, I obtained my Ph.D. at Cornell University, advised by Prof. [Justin
 My research interests mainly lie in **formal verifications** and **programming language theory**. 
 My Ph.D. research focuses on the verifcation of randomized algorithms. 
 The correctness and performance of randomized algorithms are often difficult to test or reason about. I design **probabilistic separation logic** to leverage on probabilistic dependencies and independence to enable simpler and more compositional **formal proofs** of their correctness. 
+
 Recently, I am also working on **probabilistic inference with guarantees**. While probabilistic inference, i.e., updating the prior in probabilistic models based on new information, 
 is inherently a computationally hard task, it can be efficient under certain conditions. I aim to use programming language techniques to automatically derive guarantees 
 for probabilistic inference tasks programmed by the users. 
@@ -26,8 +27,8 @@ Email: jialu8ao@gmail.com
 
 Thesis
 ============ 
-**Probabilistic Separation Logics for Randomized Algorithms**
-Jialu Bao. 
+**Probabilistic Separation Logics for Randomized Algorithms**\ 
+Jialu Bao. \ 
 [[PDF]()]
 
 
