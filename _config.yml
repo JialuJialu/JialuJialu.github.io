@@ -22,7 +22,7 @@ author:
   name: "Jialu Bao"
   avatar: "/assets/images/bio-photo.jpeg"
   bio: "My first name is pronounced as J·ah·loo. " # Note: Markdown is allowed
-  location: "Ithaca, NY"
+  location: "Boston, MA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

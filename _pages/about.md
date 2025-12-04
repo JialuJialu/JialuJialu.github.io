@@ -27,13 +27,21 @@ Email: jialu8ao@gmail.com
 
 Thesis
 ============ 
-**Probabilistic Separation Logics for Randomized Algorithms**\ 
-Jialu Bao. \ 
-[[PDF]()]
+**Probabilistic Separation Logics for Randomized Algorithms**\
+Jialu Bao. \
+[[PDF]({{site.baseurl}}/assets/thesis.pdf)]
 
 
 Publications
 ============ 
+
+**Towards an equational calculus of interventions**\
+Shubh Agrawal, Jialu Bao, Steven Holtzen. \
+<span style="font-variant-caps: all-small-caps;
+             color: darkred;
+            ">
+            The Languages for Inference Workshop (LAFI) 2026.
+</span>\
 
 **Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning**\
 Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan. \
