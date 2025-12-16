@@ -35,8 +35,8 @@ Jialu Bao. \
 Publications
 ============ 
 
-**Towards an equational calculus of interventions**\
-Shubh Agrawal, Jialu Bao, Steven Holtzen. \
+**Towards an Equational Calculus of Interventions**
+Shubh Agrawal, Jialu Bao, Steven Holtzen. 
 <span style="font-variant-caps: all-small-caps;
              color: darkred;
             ">
