@@ -35,13 +35,13 @@ Jialu Bao. \
 Publications
 ============ 
 
-**Towards an Equational Calculus of Interventions**
-Shubh Agrawal, Jialu Bao, Steven Holtzen. 
+**Towards an Equational Calculus of Interventions**\
+Shubh Agrawal, Jialu Bao, Steven Holtzen. \
 <span style="font-variant-caps: all-small-caps;
              color: darkred;
             ">
             The Languages for Inference Workshop (LAFI) 2026.
-</span>\
+</span>
 
 **Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning**\
 Jialu Bao, Emanuele D'Osualdo, Azadeh Farzan. \
