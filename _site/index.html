@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Jialu Bao (鲍家路)</title>
+<!-- begin _includes/seo.html --><title>About me - Jialu Bao (鲍家路)</title>
 <meta name="description" content="Jialu’s notes and blog">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Jialu Bao (鲍家路)">
-<meta property="og:title" content="Jialu Bao (鲍家路)">
+<meta property="og:title" content="About me">
 <meta property="og:url" content="http://localhost:4000/">
 
 
@@ -88,7 +88,7 @@
 
   </head>
 
-  <body class="layout--home">
+  <body class="layout--single wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -113,9 +113,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/about/">About</a>
-            </li><li class="masthead__menu-item">
-              <a href="/">Posts</a>
+              <a href="/">About</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -156,7 +154,7 @@
     
     
       <div class="author__bio" itemprop="description">
-        <p>My first name is pronounced as J·ah·loo.</p>
+        
 
       </div>
     
@@ -167,7 +165,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Ithaca, NY</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Boston, MA</span>
         </li>
       
 
@@ -182,7 +180,7 @@
           
         
           
-            <li><a href="https://mathstodon.xyz/@baojialu" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span class="label">mastodon</span></a></li>
+            <li><a href="https://mastodon.social/@baojialu" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span class="label">mastodon</span></a></li>
           
         
       
@@ -251,72 +249,360 @@
 
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="About me">
     
-      <h1 id="page-title" class="page__title"></h1>
     
-    
-
-
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-
-
-
-<div class="entries-list">
-  
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
+    <div class="page__inner-wrap">
       
-        <a href="/notes/itap/" rel="permalink">Tips for passing Cornell’s ITAP Assessment and Why It Needs to Change
-</a>
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">About me
+</h1>
+          
+
+
+        </header>
       
-    </h2>
+
+      <section class="page__content" itemprop="text">
+        
+        <p>I am a postdoctoral researcher at Northeastern University, working with
+  Prof. <a href="https://www.khoury.northeastern.edu/home/sholtzen/">Steven Holtzen</a>.
+  I received my Ph.D. from Cornell University, advised by Prof. <a href="https://justinhsu.net/">Justin
+  Hsu</a>. 
+  (<a href="/assets/CV.pdf">CV</a>)</p>
+
+<p>I develop <strong>formal methods</strong> to specify and verify the correctness of programs. 
+  One focus of my research is verifying probabilistic programs. They power applications such as cryptographic protocols and differential 
+  privacy, yet their randomness makes correctness and performance notoriously hard to test or reason about.
+  I design <strong>probabilistic separation logics</strong> that exploit probabilistic independence,
+  conditional independence, and negative dependence to enable  compositional proofs about such programs. I also work on automating probabilistic separation logic and other deductive verification methods, with the goal of making these formal methods more accessible.</p>
+
+<p>Beyond probabilistic program verification, I am also interested in:</p>
+
+<ul>
+  <li>a cleaner characterization of causal inference and its automation;</li>
+  <li>formal verification of consensus protocols.</li>
+</ul>
+
+<p>During my PhD, 
+  I also enjoyed organizing Cornell’s 
+  <a href="https://pl.cs.cornell.edu/pldg/2026sp/">Programming Language Discussion Group (PLDG)</a>
+  and volunteering for the 
+  <a href="https://www.sigplan.org/LongTermMentoring/">SIGPLAN’s long-term mentoring program</a>
+  for a few years.</p>
+
+<p>Email: jialu8ao@gmail.com</p>
+
+<h1 id="thesis">Thesis</h1>
+<p><strong>Probabilistic Separation Logics for Randomized Algorithms</strong><br />
+Jialu Bao. <br />
+[<a href="/assets/thesis.pdf">PDF</a>]</p>
+
+<h1 id="publications">Publications</h1>
+
+<p><strong>Towards an Equational Calculus of Interventions</strong><br />
+Shubh Agrawal, Jialu Bao, Steven Holtzen. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            The Languages for Inference Workshop (LAFI) 2026.
+</span><br />
+[<a href="/assets/causal.pdf">extended abstract</a>]</p>
+
+<p><strong>Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning</strong><br />
+Jialu Bao, Emanuele D’Osualdo, Azadeh Farzan. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Symposium on Principles of Programming Languages (POPL) 2025.
+</span><br />
+[<a href="https://arxiv.org/abs/2402.18708">arxiv</a>] 
+[<a href="https://www.youtube.com/watch?v=Rq6dhLlpP7U">20-min talk</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3704894">doi</a>]</p>
+
+<p><strong>A Categorical Approach to DIBI Models</strong><br />
+Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi.<br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Formal Structures for Computation and Deduction (FSCD) 2024.
+</span><br />
+[<a href="https://arxiv.org/abs/2401.05842">arxiv</a>]
+[<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.17">doi</a>]</p>
+
+<p><strong>Mixture Languages</strong><br />
+Oliver Richardson, Jialu Bao. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            The Languages for Inference Workshop (LAFI) 2024.
+</span><br />
+[<a href="https://popl24.sigplan.org/details/lafi-2024-papers/1/Mixture-Languages">extended abstract</a>]</p>
+
+<p><strong>Data-Driven Invariant Learning for Probabilistic Programs</strong><br />
+Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+             Distinguished Paper Award, Computer Aided Verification (CAV) 2022. 
+</span><br />
+Journal version appears on 
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Formal Methods in Systems Design (FMSD) 2025. 
+</span><br />
+[<a href="https://arxiv.org/abs/2106.05421">arxiv</a>]
+[<a href="https://www.ijcai.org/proceedings/2023/0712.pdf">extended abstract</a>]
+[<a href="/assets/talk_slides/wpe_pldg.pdf">slide</a>]
+[<a href="https://dl.acm.org/doi/10.1007/s10703-024-00466-x">doi</a>]</p>
+
+<p><strong>A Separation Logic for Negative Dependence</strong><br />
+Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Symposium on Principles of Programming Languages (POPL) 2022.
+</span><br />
+[<a href="https://arxiv.org/pdf/2111.14917.pdf">arxiv</a>]
+[<a href="https://www.youtube.com/watch?v=hD5p1EoWr4I">5 min video</a>]
+[<a href="https://www.youtube.com/watch?v=eRhBZuIAQY4&amp;list=PLyrlk8Xaylp4uPnEfcP5jETxhm50XTit9&amp;index=1">20 min video</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3498719">doi</a>]</p>
+
+<p><strong>A Bunched Logic for Conditional Independence</strong><br />
+Jialu Bao, Simon Docherty, Justin Hsu, Alexandra Silva.<br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+             Symposium on Logic in Computer Science (LICS) 2021.
+</span><br />
+[<a href="https://arxiv.org/abs/2008.09231">arxiv</a>]
+[<a href="https://www.youtube.com/watch?v=VKb96bi3EhM">video</a>]
+[<a href="https://dl.acm.org/doi/10.1109/LICS52264.2021.9470712">doi</a>]</p>
+
+<p><strong>Hidden Community Detection on Two-layer Stochastic Models
+Theoretical Prospective</strong><br />
+Jialu Bao, Kun He, Xiaodong Xin, Bart Selman, John E. Hopcroft. <br />
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Theory and Applications of Models of Computation (TAMC) 2020.
+</span><br />
+Journal version appears on 
+<span style="font-variant-caps: all-small-caps;              color: darkred;             ">
+            Transactions on Knowledge Discovery from Data (TKDD) 2025. 
+</span><br />
+[<a href="https://arxiv.org/abs/2001.05919">TAMC arxiv</a>]
+[<a href="https://arxiv.org/abs/2108.00127">TKDD arxiv</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3706111">doi</a>]</p>
+
+<h1 id="talks">Talks</h1>
+
+<!-- Template for a new talk (delete the optional link line if unused):
+
+**Talk title**\
+<span style="font-variant-caps: all-small-caps;
+             color: #00008b;
+            ">
+            Venue, Month Year.
+</span>\
+[[slides](URL)] [[video](URL)]
+
+-->
+
+<p><strong>Automating Probabilistic Separation Logic</strong>
+[<a href="/assets/talk_slides/autoPSL-softwareday.pdf">slide</a>]<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            Software Day, Northeastern University · March 2026.
+</span></p>
+
+<p><strong>Automating Probabilistic Separation Logic</strong><br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            Upstate PL Seminar y · August 2025.
+</span></p>
+
+<p><strong>Bluebell: An Alliance of Relational Lifting and Independence for Probabilistic Reasoning</strong><br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            PLV Seminar, Portland State University  · March 2025.
+</span></p>
+
+<p><strong>Bluebell: An Alliance of Relational Lifting and Independence for Probabilistic Reasoning</strong>
+[<a href="/assets/talk_slides/.pdf">slide</a>]<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            PLDG, Cornell University · October 2024.
+</span></p>
+
+<p><strong>A Tour of Probabilistic Separation Logic</strong>
+[<a href="/assets/talk_slides/basis.pdf">slide</a>]<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            Basis Research Institute · August 2024.
+</span></p>
+
+<p><strong>A Separation Logic for Negative Dependence</strong><br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            POPV Seminar, Boston University · November 2023.
+</span></p>
+
+<p><strong>Data-Driven Invariant Learning for Probabilistic Programs</strong><br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            OPLSS 2022 Participants’ Talks · June 2022.
+</span></p>
+
+<p><strong>Data-Driven Invariant Learning for Probabilistic Programs</strong>
+[<a href="/assets/talk_slides/wpe_pldg.pdf">slides</a>]
+<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            PLDG, Cornell University · March 2022.
+</span></p>
+
+<p><strong>A Separation Logic for Negative Dependence</strong>
+[<a href="/assets/talk_slides/negdep_1hr.pdf">slides</a>]
+<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            PLDG, Cornell University · October 2021.
+</span></p>
+
+<p><strong>Data-Driven Invariant Learning for Probabilistic Programs</strong> (preliminary work)<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            <a href="https://www.irif.fr/pps-pihoc-diapason2021">PPS-PIHOC-DIAPASoN Workshop</a> · February 2021.
+</span></p>
+
+<p><strong>A Logic for Verifying Conditional Independence and Join Dependency</strong> (poster)<br />
+<span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
+            Student Research Competition, POPL 2020 · January 2020.
+</span></p>
+
+<h1 id="news">News</h1>
+<div class="cv-list">
+
+  <ul>
+    <li><strong>2025.7</strong> I passed my B exam (thesis defense)!</li>
+    <li><strong>2025.3 - 2025.5</strong> I had the pleasure of visiting Prof. <a href="https://alexandrasilva.org">Alexandra Silva</a>’s group at University College London!</li>
+    <li><strong>2024.5 - 2025.8</strong> I had the opportunity to intern with a wonderful team at <a href="https://www.basis.ai/">Basis Research Institute</a>!</li>
+  </ul>
+</div>
+
+<details class="older-news">
+  <summary><span class="when-closed">Show older news</span><span class="when-open">Hide older news</span></summary>
+
+  <ul>
+    <li><strong>2024.1 - 2024.5</strong> I co-organized a new edition of the 
+<a href="https://pl.cs.cornell.edu/great-works/2024sp/">Great Works in PL Seminar</a>
+with <a href="https://www.linkedin.com/in/yulun-yao-47624bb7/">Yulun Yao</a>!</li>
+    <li><strong>2023.8</strong> I attended Marktoberdorf Summer School.</li>
+    <li><strong>2023.3</strong> I was humbled to receive an <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/">honorable mention for the Jane Street Graduate Research Fellowship</a>.</li>
+    <li><strong>2022.8</strong> I joined the Operations Team of <a href="https://www.sigplan.org/LongTermMentoring/">SIGPLAN Long-Term Mentoring Committee</a>! The program welcomes aspiring and current programming languages researchers from all walks of life to serve as mentors, mentees, or both. SIGPLAN members and non-members alike are welcome, and there is no cost to participate. There are no limitations on country of residence or languages spoken.</li>
+    <li><strong>2022.8</strong> I passed my A exam and became a Ph.D. candidate.</li>
+    <li><strong>2022.7</strong> I attended the Oregon Programming Languages Summer School (OPLSS) .</li>
+  </ul>
+
+</details>
+
+<style>
+.older-news > summary {
+  display: inline-block;
+  cursor: pointer;
+  margin: 1.4em 0;
+  padding: 0.4em 1em;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  list-style: none;
+  opacity: 0.7;
+}
+.older-news > summary:hover { opacity: 1; }
+.older-news > summary::-webkit-details-marker { display: none; }
+.older-news > summary::after { content: " \25BE"; }
+.older-news[open] > summary::after { content: " \25B4"; }
+.older-news[open] > summary .when-closed { display: none; }
+.older-news:not([open]) > summary .when-open { display: none; }
+/* Extra space before the next section (Teaching), whether older news is
+   collapsed or expanded. */
+.older-news { margin-bottom: 2em; }
+
+/* Uniform body font size across all sections (intro, Thesis, Publications,
+   News, Teaching, ...) so they match. */
+.page__content { font-size: 0.92em; }
+
+/* CV-style two-column layout for News & Teaching: the date sits in a left
+   column and the description forms a right column whose wrapped lines align
+   (instead of dangling). The date is absolutely positioned so inline links in
+   the description don't break the layout — a CSS-grid approach would split the
+   description into a new cell at every link. */
+.cv-list ul,
+.older-news > ul {
+  margin: 0.5em 0;
+  padding-left: 0;
+  list-style: none;
+  line-height: 1.45;
+}
+.cv-list li,
+.older-news > ul > li {
+  position: relative;
+  padding-left: 8.5em;
+  margin-bottom: 0.55em;
+  list-style: none;
+}
+/* Reset paragraph margins for "loose" lists (items separated by blank lines,
+   which kramdown wraps in <p>) so spacing matches "tight" lists. */
+.cv-list li > p,
+.older-news > ul > li > p {
+  margin: 0;
+}
+/* The date is the leading <strong> — handle both tight lists (strong is a
+   direct child of <li>) and loose lists (strong sits inside a <p>). */
+.cv-list li > strong:first-child,
+.cv-list li > p:first-child > strong:first-child,
+.older-news > ul > li > strong:first-child,
+.older-news > ul > li > p:first-child > strong:first-child {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 8em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+</style>
+
+<h1 id="teaching">Teaching</h1>
+<div class="cv-list">
+
+  <ul>
+    <li>
+      <p><strong>Spring 22</strong> <a href="https://www.cs.cornell.edu/courses/cs3110/2022sp/">CS 3110 Data Structures and Functional Programming</a> by Prof. <a href="https://www.cs.cornell.edu/~jnfoster/">Nate Foster</a> and <a href="https://justinh.su/">Justin Hsu</a></p>
+    </li>
+    <li>
+      <p><strong>Fall 21</strong> <a href="https://www.cs.cornell.edu/courses/cs6182/2021fa/">CS 6182 Foundations of Probabilistic Programming</a> by Prof. <a href="https://justinh.su/">Justin Hsu</a></p>
+    </li>
+    <li>
+      <p><strong>Spring 18 &amp; 19</strong> <a href="https://www.cs.cornell.edu/courses/cs3110/2019sp/">CS 3110 Data Structures and Functional Programming</a> by Prof. <a href="https://www.cs.cornell.edu/~jnfoster/">Nate Foster</a></p>
+    </li>
+    <li>
+      <p><strong>Fall 18</strong> <a href="https://www.cs.cornell.edu/courses/cs4820/2018fa/">CS 4820 Introduction to Analysis of Algorithms</a>, by Prof. <a href="https://www.cs.cornell.edu/~eva/">Eva Tardos</a> and <a href="https://www.cs.hmc.edu/~xanda/#/">Xanda Schofield</a></p>
+    </li>
+    <li>
+      <p><strong>Fall 17</strong> <a href="https://courses.cit.cornell.edu/info2040_2017fa/">CS 2850 Networks</a>, by Prof. <a href="https://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a> and <a href="https://easley.economics.cornell.edu/">David Easley</a></p>
+    </li>
+    <li>
+      <p><strong>Spring 17</strong> <a href="https://courses.cit.cornell.edu/info2950_2017sp/">INFO 2950 Introduction to Data Science</a> by Prof. <a href="https://physics.cornell.edu/paul-ginsparg">Paul Ginsparg</a></p>
+    </li>
+  </ul>
+
+</div>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+
+      </footer>
+
+      
+
+      
+    </div>
+
     
-
-
-    <p class="archive__item-excerpt" itemprop="description">This beginning is mainly my rant.
-
-Before starting my TA assistantship at Cornell, I got an email about an English assessment from International Teaching Ass...</p>
   </article>
-</div>
 
   
-    
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/notes/scribes/" rel="permalink">Scribe notes on algorithms and complexities
-</a>
-      
-    </h2>
-    
-
-
-    <p class="archive__item-excerpt" itemprop="description">Here are some notes I scribed for courses I take during the first year of my Ph.D. study. 
-These notes have not been scrutinized as peer-reviewed works would...</p>
-  </article>
-</div>
-
   
 </div>
 
-
-
-
-  </div>
-</div>
     </div>
 
     
@@ -338,7 +624,7 @@ These notes have not been scrutinized as peer-reviewed works would...</p>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 Jialu Bao (鲍家路). Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2026 Jialu Bao (鲍家路). Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

@@ -1,0 +1,11 @@
+#!/bin/sh
+# clang++ wrapper for local Jekyll gem builds on this machine.
+#
+# Why this exists: this machine's Ruby reports CXX="false" and the Command
+# Line Tools libc++ headers under /Library/Developer/CommandLineTools are
+# incomplete (missing <vector> etc.), so C++ native gems (e.g. eventmachine,
+# pulled in by Jekyll's livereload) fail to build. The complete libc++
+# headers DO exist inside the SDK, so we invoke clang++ with that include
+# path. Used only when building this project (see the Makefile); nothing
+# global is changed.
+exec clang++ -isystem "$(xcrun --show-sdk-path)/usr/include/c++/v1" "$@"
