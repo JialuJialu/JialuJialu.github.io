@@ -172,6 +172,10 @@
       
         
           
+            <li><a href="/assets/CV.pdf" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i><span class="label">CV</span></a></li>
+          
+        
+          
             <li><a href="https://github.com/JialuJialu" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
@@ -271,8 +275,7 @@
         <p>I am a postdoctoral researcher at Northeastern University, working with
   Prof. <a href="https://www.khoury.northeastern.edu/home/sholtzen/">Steven Holtzen</a>.
   I received my Ph.D. from Cornell University, advised by Prof. <a href="https://justinhsu.net/">Justin
-  Hsu</a>. 
-  (<a href="/assets/CV.pdf">CV</a>)</p>
+  Hsu</a>.</p>
 
 <p>I develop <strong>formal methods</strong> to specify and verify the correctness of programs. 
   One focus of my research is verifying probabilistic programs. They power applications such as cryptographic protocols and differential 
@@ -381,6 +384,100 @@ Journal version appears on
 [<a href="https://arxiv.org/abs/2108.00127">TKDD arxiv</a>]
 [<a href="https://dl.acm.org/doi/10.1145/3706111">doi</a>]</p>
 
+<h1 id="news">News</h1>
+<div class="cv-list">
+
+  <ul>
+    <li><strong>2025.7</strong> I passed my B exam (thesis defense)!</li>
+    <li><strong>2025.3 - 2025.5</strong> I had the pleasure of visiting Prof. <a href="https://alexandrasilva.org">Alexandra Silva</a>’s group at University College London!</li>
+    <li><strong>2024.5 - 2025.8</strong> I had the opportunity to intern with a wonderful team at <a href="https://www.basis.ai/">Basis Research Institute</a>!</li>
+  </ul>
+</div>
+
+<details class="older-news">
+  <summary><span class="when-closed">Show older news</span><span class="when-open">Hide older news</span></summary>
+
+  <ul>
+    <li><strong>2024.1 - 2024.5</strong> I co-organized a new edition of the 
+<a href="https://pl.cs.cornell.edu/great-works/2024sp/">Great Works in PL Seminar</a>
+with <a href="https://www.linkedin.com/in/yulun-yao-47624bb7/">Yulun Yao</a>!</li>
+    <li><strong>2023.8</strong> I attended Marktoberdorf Summer School.</li>
+    <li><strong>2023.3</strong> I was humbled to receive an <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/">honorable mention for the Jane Street Graduate Research Fellowship</a>.</li>
+    <li><strong>2022.8</strong> I joined the Operations Team of <a href="https://www.sigplan.org/LongTermMentoring/">SIGPLAN Long-Term Mentoring Committee</a>! The program welcomes aspiring and current programming languages researchers from all walks of life to serve as mentors, mentees, or both. SIGPLAN members and non-members alike are welcome, and there is no cost to participate. There are no limitations on country of residence or languages spoken.</li>
+    <li><strong>2022.8</strong> I passed my A exam and became a Ph.D. candidate.</li>
+    <li><strong>2022.7</strong> I attended the Oregon Programming Languages Summer School (OPLSS) .</li>
+  </ul>
+
+</details>
+
+<style>
+.older-news > summary {
+  display: inline-block;
+  cursor: pointer;
+  margin: 1.4em 0;
+  padding: 0.4em 1em;
+  font-size: 0.8em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  list-style: none;
+  opacity: 0.7;
+}
+.older-news > summary:hover { opacity: 1; }
+.older-news > summary::-webkit-details-marker { display: none; }
+.older-news > summary::after { content: " \25BE"; }
+.older-news[open] > summary::after { content: " \25B4"; }
+.older-news[open] > summary .when-closed { display: none; }
+.older-news:not([open]) > summary .when-open { display: none; }
+/* Extra space before the next section (Teaching), whether older news is
+   collapsed or expanded. */
+.older-news { margin-bottom: 1.5em; }
+
+/* Uniform body font size across all sections (intro, Thesis, Publications,
+   News, Teaching, ...) so they match. */
+.page__content { font-size: 0.92em; }
+
+/* CV-style two-column layout for News & Teaching: the date sits in a left
+   column and the description forms a right column whose wrapped lines align
+   (instead of dangling). The date is absolutely positioned so inline links in
+   the description don't break the layout — a CSS-grid approach would split the
+   description into a new cell at every link. */
+.cv-list ul,
+.older-news > ul {
+  margin: 0.5em 0;
+  padding-left: 0;
+  list-style: none;
+  line-height: 1.45;
+}
+.cv-list li,
+.older-news > ul > li {
+  position: relative;
+  padding-left: 8.5em;
+  margin-bottom: 0.55em;
+  list-style: none;
+}
+/* Reset paragraph margins for "loose" lists (items separated by blank lines,
+   which kramdown wraps in <p>) so spacing matches "tight" lists. */
+.cv-list li > p,
+.older-news > ul > li > p {
+  margin: 0;
+}
+/* The date is the leading <strong> — handle both tight lists (strong is a
+   direct child of <li>) and loose lists (strong sits inside a <p>). */
+.cv-list li > strong:first-child,
+.cv-list li > p:first-child > strong:first-child,
+.older-news > ul > li > strong:first-child,
+.older-news > ul > li > p:first-child > strong:first-child {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 8em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+</style>
+
 <h1 id="talks">Talks</h1>
 
 <!-- Template for a new talk (delete the optional link line if unused):
@@ -456,100 +553,6 @@ Journal version appears on
 <span style="font-variant-caps: all-small-caps;              color: #00008b;             ">
             Student Research Competition, POPL 2020 · January 2020.
 </span></p>
-
-<h1 id="news">News</h1>
-<div class="cv-list">
-
-  <ul>
-    <li><strong>2025.7</strong> I passed my B exam (thesis defense)!</li>
-    <li><strong>2025.3 - 2025.5</strong> I had the pleasure of visiting Prof. <a href="https://alexandrasilva.org">Alexandra Silva</a>’s group at University College London!</li>
-    <li><strong>2024.5 - 2025.8</strong> I had the opportunity to intern with a wonderful team at <a href="https://www.basis.ai/">Basis Research Institute</a>!</li>
-  </ul>
-</div>
-
-<details class="older-news">
-  <summary><span class="when-closed">Show older news</span><span class="when-open">Hide older news</span></summary>
-
-  <ul>
-    <li><strong>2024.1 - 2024.5</strong> I co-organized a new edition of the 
-<a href="https://pl.cs.cornell.edu/great-works/2024sp/">Great Works in PL Seminar</a>
-with <a href="https://www.linkedin.com/in/yulun-yao-47624bb7/">Yulun Yao</a>!</li>
-    <li><strong>2023.8</strong> I attended Marktoberdorf Summer School.</li>
-    <li><strong>2023.3</strong> I was humbled to receive an <a href="https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles/">honorable mention for the Jane Street Graduate Research Fellowship</a>.</li>
-    <li><strong>2022.8</strong> I joined the Operations Team of <a href="https://www.sigplan.org/LongTermMentoring/">SIGPLAN Long-Term Mentoring Committee</a>! The program welcomes aspiring and current programming languages researchers from all walks of life to serve as mentors, mentees, or both. SIGPLAN members and non-members alike are welcome, and there is no cost to participate. There are no limitations on country of residence or languages spoken.</li>
-    <li><strong>2022.8</strong> I passed my A exam and became a Ph.D. candidate.</li>
-    <li><strong>2022.7</strong> I attended the Oregon Programming Languages Summer School (OPLSS) .</li>
-  </ul>
-
-</details>
-
-<style>
-.older-news > summary {
-  display: inline-block;
-  cursor: pointer;
-  margin: 1.4em 0;
-  padding: 0.4em 1em;
-  font-size: 0.8em;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  border: 1px solid currentColor;
-  border-radius: 4px;
-  list-style: none;
-  opacity: 0.7;
-}
-.older-news > summary:hover { opacity: 1; }
-.older-news > summary::-webkit-details-marker { display: none; }
-.older-news > summary::after { content: " \25BE"; }
-.older-news[open] > summary::after { content: " \25B4"; }
-.older-news[open] > summary .when-closed { display: none; }
-.older-news:not([open]) > summary .when-open { display: none; }
-/* Extra space before the next section (Teaching), whether older news is
-   collapsed or expanded. */
-.older-news { margin-bottom: 2em; }
-
-/* Uniform body font size across all sections (intro, Thesis, Publications,
-   News, Teaching, ...) so they match. */
-.page__content { font-size: 0.92em; }
-
-/* CV-style two-column layout for News & Teaching: the date sits in a left
-   column and the description forms a right column whose wrapped lines align
-   (instead of dangling). The date is absolutely positioned so inline links in
-   the description don't break the layout — a CSS-grid approach would split the
-   description into a new cell at every link. */
-.cv-list ul,
-.older-news > ul {
-  margin: 0.5em 0;
-  padding-left: 0;
-  list-style: none;
-  line-height: 1.45;
-}
-.cv-list li,
-.older-news > ul > li {
-  position: relative;
-  padding-left: 8.5em;
-  margin-bottom: 0.55em;
-  list-style: none;
-}
-/* Reset paragraph margins for "loose" lists (items separated by blank lines,
-   which kramdown wraps in <p>) so spacing matches "tight" lists. */
-.cv-list li > p,
-.older-news > ul > li > p {
-  margin: 0;
-}
-/* The date is the leading <strong> — handle both tight lists (strong is a
-   direct child of <li>) and loose lists (strong sits inside a <p>). */
-.cv-list li > strong:first-child,
-.cv-list li > p:first-child > strong:first-child,
-.older-news > ul > li > strong:first-child,
-.older-news > ul > li > p:first-child > strong:first-child {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 8em;
-  font-weight: 600;
-  white-space: nowrap;
-}
-</style>
 
 <h1 id="teaching">Teaching</h1>
 <div class="cv-list">

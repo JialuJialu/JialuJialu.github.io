@@ -39,6 +39,9 @@ author:
     - label: "mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@baojialu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/CV.pdf"
 
 # Build settings
 lsi: false
